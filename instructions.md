@@ -60,6 +60,7 @@ pipeline {
 
 Scope for errors:
 
+- docker username
 - repo url
 - branch name eg. main/master check carefully
 
