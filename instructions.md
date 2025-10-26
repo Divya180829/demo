@@ -62,7 +62,7 @@ Scope for errors:
 
 - docker username
 - repo url
-- branch name eg. main/master check carefully
+- branch name eg. main/master check carefully in your github repo that you are putting here
 
 5. Click on Build now
 
