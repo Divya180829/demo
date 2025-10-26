@@ -3,9 +3,15 @@
 ## B1
 
 ```
-docker build -t my-java-app .
+The docker file is already there.
+The java and python files are also there.
+Make sure to uncomment the needed ones and remove the not needed ones from the Dockerfile.
 
-docker run my-java-app
+now type the below codes.
+
+docker build -t my-java-app .  OR  docker build -t my-python-app
+
+docker run my-java-app   OR docker run my-python-app
 ```
 
 ---
