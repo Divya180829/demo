@@ -9,7 +9,7 @@ Make sure to uncomment the needed ones and remove the not needed ones from the D
 
 now type the below codes.
 
-docker build -t my-java-app .  OR  docker build -t my-python-app
+docker build -t my-java-app .  OR  docker build -t my-python-app .
 
 docker run my-java-app   OR docker run my-python-app
 ```
