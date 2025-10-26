@@ -64,6 +64,6 @@ Scope for errors:
 - repo url
 - branch name eg. main/master check carefully in your github repo that you are putting here
 
-5. Click on Build now
+5. Click on Save and Build now
 
 ---
