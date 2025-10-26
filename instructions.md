@@ -3,7 +3,7 @@
 ## B1
 
 ```
-The docker file is already there.
+The docker file is already there on the left.
 The java and python files are also there.
 Make sure to uncomment the needed ones and remove the not needed ones from the Dockerfile.
 
