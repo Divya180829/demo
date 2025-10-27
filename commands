@@ -1,0 +1,25 @@
+git push --set-upstream gitrepourl master
+
+git pull url master --rebase
+git push url master
+git push --set-upstream url master
+
+
+
+//creation of branches
+git branch host1
+git branch
+git branch host2
+git checkout host1
+modify the code 
+git add .
+git commit -m "vvce added"
+ git checkouthost2
+modify
+git add .
+git commit -m "hello"
+  git merge host1 
+git diff
+
+
+
